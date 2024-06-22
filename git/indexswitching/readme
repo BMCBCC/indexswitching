@@ -1,0 +1,1 @@
+sbatch -p bcc indexswitching.sh test.fastq barcodes.txt index_swithcing_results
